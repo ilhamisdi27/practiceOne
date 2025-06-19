@@ -1,8 +1,6 @@
 # Ilham Isdiansyah kece belajar IT
 
-nenek gayung serem bet
-
-ihh takutt dzawin
-
-langit kelabu
+Saya Ilham Isdiansyah
+Senang sekali belajar git git an
+Mohon doa dan supportnya ges
 
