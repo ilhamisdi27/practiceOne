@@ -1,7 +1,3 @@
-# Ilham Isdiansyah kece belajar IT
+# IlhamIsdiansyah
 
-Saya Ilham Isdiansyah
-
-Senang sekali belajar git git an
-
-Mohon doa dan supportnya kawan
+Ayo bikin Repository
