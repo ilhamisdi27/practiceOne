@@ -4,3 +4,5 @@ nenek gayung serem bet
 
 ihh takutt dzawin
 
+langit kelabu
+
